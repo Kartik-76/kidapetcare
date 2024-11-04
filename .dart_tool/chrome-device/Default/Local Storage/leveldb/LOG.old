@@ -1,0 +1,8 @@
+2024/10/29-11:40:37.524 3108 Reusing MANIFEST C:\Users\karti\AppData\Local\Temp\flutter_tools.f2f3a9f\flutter_tools_chrome_device.64a29bbc\Default\Local Storage\leveldb/MANIFEST-000001
+2024/10/29-11:40:37.631 3108 Recovering log #6
+2024/10/29-11:40:37.632 3108 (ignoring error) C:\Users\karti\AppData\Local\Temp\flutter_tools.f2f3a9f\flutter_tools_chrome_device.64a29bbc\Default\Local Storage\leveldb/000006.log: dropping 27527 bytes; Corruption: checksum mismatch
+2024/10/29-11:40:37.632 3108 (ignoring error) C:\Users\karti\AppData\Local\Temp\flutter_tools.f2f3a9f\flutter_tools_chrome_device.64a29bbc\Default\Local Storage\leveldb/000006.log: dropping 7400 bytes; Corruption: missing start of fragmented record(2)
+2024/10/29-11:40:37.632 3108 (ignoring error) C:\Users\karti\AppData\Local\Temp\flutter_tools.f2f3a9f\flutter_tools_chrome_device.64a29bbc\Default\Local Storage\leveldb/000006.log: dropping 1051 bytes; Corruption: checksum mismatch
+2024/10/29-11:40:37.645 3108 Reusing old log C:\Users\karti\AppData\Local\Temp\flutter_tools.f2f3a9f\flutter_tools_chrome_device.64a29bbc\Default\Local Storage\leveldb/000006.log 
+2024/10/29-11:40:37.652 3108 Delete type=0 #3
+2024/10/29-11:40:37.652 3108 Delete type=0 #4

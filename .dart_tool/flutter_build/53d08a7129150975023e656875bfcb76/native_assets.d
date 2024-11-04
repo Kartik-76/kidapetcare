@@ -1,0 +1,1 @@
+ C:\\Users\\karti\\OneDrive\\Desktop\\flutter\\image\ carousel\\image_carousel\\.dart_tool\\flutter_build\\53d08a7129150975023e656875bfcb76\\native_assets.yaml: 

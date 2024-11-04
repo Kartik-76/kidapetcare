@@ -1,0 +1,239 @@
+[
+    {
+        "groupName": "Blood Parameters",
+        "data": [
+            {
+                "name": "R.B.C",
+                "optimalLow": 4.5,
+                "optimalHigh": 5.5,
+                "patientValue": 3.56,
+                "units": "Million/cumm"
+
+            },
+            {
+                "name": "Haemoglobin",
+                "optimalLow": 13,
+                "optimalHigh": 17,
+                "patientValue": 8.9,
+                "units":"g/dl"
+                
+            },
+            {
+                "name": "Packed Cell Volume",
+                "optimalLow": 40.0,
+                "optimalHigh": 50.0,
+                "patientValue": 27.60,
+                "units":"%"
+            },
+            {
+                "name": "MCV",
+                "optimalLow": 80,
+                "optimalHigh": 100,
+                "patientValue": 77.53,
+                "units": "fL"
+            },
+            {
+                "name": "MCH",
+                "optimalLow": 27.0,
+                "optimalHigh": 32.0,
+                "patientValue": 25.0,
+                "units":"pg"
+            },
+            {
+                "name": "MCHC",
+                "optimalLow": 27.0,
+                "optimalHigh": 48.0,
+                "patientValue": 32.25,
+                "units":"g/dL"
+            },
+            {
+                "name": "Platelet Count",
+                "optimalLow": 150,
+                "optimalHigh": 450,
+                "patientValue": 201,
+                "units":"x10³/ul"
+            }
+        ]
+    },
+    {
+        "groupName": "Electrolytes",
+        "data": [
+            {
+                "name": "Sodium (NA+)",
+                "optimalLow": 135.0,
+                "optimalHigh": 145.0,
+                "patientValue": 135.30,
+                "units":"mmol/L"
+            },
+            {
+                "name": "Potassium (K+)",
+                "optimalLow": 3.50,
+                "optimalHigh": 5.50,
+                "patientValue": 5.30,
+                "units":"mmol/L"
+            },
+            {
+                "name": "Chloride",
+                "optimalLow": 98,
+                "optimalHigh": 109,
+                "patientValue": 101.00,
+                "units":"mmol/L"
+            }
+        ]
+    },
+    {
+        "groupName": "Kidney Function Tests",
+        "data": [
+            {
+                "name": "Urea",
+                "optimalLow": 13.0,
+                "optimalHigh": 43.0,
+                "patientValue": 46.8,
+                "units":"mg/dl"
+
+            },
+            {
+                "name": "Creatinine",
+                "optimalLow": 0.70,
+                "optimalHigh": 1.40,
+                "patientValue": 1.22,
+                "units":"mg/dl"
+            },
+            {
+                "name": "Uric Acid",
+                "optimalLow": 4.40,
+                "optimalHigh": 7.60,
+                "patientValue": 5.95,
+                "units":"mg/dl"
+            },
+            {
+                "name": "Creatinine, Random Urine",
+                "optimalLow": 28,
+                "optimalHigh": 259,
+                "patientValue": 79.20,
+                "units":"mg/dl"
+            },
+            {
+                "name": "Microalbumin/creatinine Ratio",
+                "optimalLow": 0,
+                "optimalHigh": 30,
+                "patientValue": 111.62,
+                "units":"mg/g"
+            }
+        ]
+    },
+    {
+        "groupName": "Liver Function Tests",
+        "data": [
+            {
+                "name": "Bilirubin Total",
+                "optimalLow": 0,
+                "optimalHigh": 1.1,
+                "patientValue": 0.57,
+                "units":"mg/dl"
+            },
+            {
+                "name": "Bilirubin Direct",
+                "optimalLow": 0,
+                "optimalHigh": 0.3,
+                "patientValue": 0.23,
+                "units":"mg/dl"
+            },
+            {
+                "name": "Bilirubin Indirect",
+                "optimalLow": 0.30,
+                "optimalHigh": 1.00,
+                "patientValue": 0.34,
+                "units":"mg/dl"
+            },
+            {
+                "name": "SGOT (AST)",
+                "optimalLow": 0,
+                "optimalHigh": 31.0,
+                "patientValue": 24.5,
+                "units":"U/L"
+            },
+            {
+                "name": "SGPT (ALT)",
+                "optimalLow": 0,
+                "optimalHigh": 33.0,
+                "patientValue": 61.9,
+                "units":"U/L"
+            },
+            {
+                "name": "Alkaline Phosphatase (ALP)",
+                "optimalLow": 40,
+                "optimalHigh": 129,
+                "patientValue": 497.2,
+                "units":"U/L"
+            },
+            {
+                "name": "Gamma Glutamyl Transferase (GGT)",
+                "optimalLow": 15,
+                "optimalHigh": 60,
+                "patientValue": 450.8,
+                "units":"U/L"
+            }
+        ]
+    },
+    {
+        "groupName": "Proteins",
+        "data": [
+            {
+                "name": "Protein Total",
+                "optimalLow": 6.6,
+                "optimalHigh": 8.7,
+                "patientValue": 6.07,
+                "units":"g/dL"
+            },
+            {
+                "name": "Albumin (Serum)",
+                "optimalLow": 3.97,
+                "optimalHigh": 4.95,
+                "patientValue": 3.69,
+                "units":"g/dL"
+            },
+            {
+                "name": "Globulin",
+                "optimalLow": 2.50,
+                "optimalHigh": 3.50,
+                "patientValue": 2.38,
+                "units":"g/dL"
+            },
+            {
+                "name": "A/G Ratio",
+                "optimalLow": 1.5,
+                "optimalHigh": 2.5,
+                "patientValue": 1.55,
+                "units":"g/dL"
+
+            }
+        ]
+    },
+    {
+        "groupName": "Others",
+        "data": [
+            {
+                "name": "Phosphorus",
+                "optimalLow": 2.50,
+                "optimalHigh": 5.00,
+                "patientValue": 3.60,
+                "units":"mg/dL"
+
+            },
+            {
+                "name": "Ph",
+                "optimalLow": 4.6,
+                "optimalHigh": 8.0,
+                "patientValue": 5.0,
+                "units":"g/dL"
+            },
+            {
+                "name": "Specific Gravity",
+                "optimalLow": 1.005,
+                "optimalHigh": 1.030,
+                "patientValue": 1.020
+            }
+        ]
+    }
+]

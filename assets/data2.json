@@ -1,0 +1,327 @@
+[
+    {
+        "name": "R.B.C",
+        "optimalRange": "4.5-5.5 Millions/cumm",
+        "patientValue": "3.56 Millions/cumm"
+    },
+    {
+        "name": "Haemoglobin",
+        "optimalRange": "13-17 g/dl",
+        "patientValue": "8.9 g/dl"
+    },
+    {
+        "name": "Packed Cell Volume",
+        "optimalRange": "40.0-50.0 %",
+        "patientValue": "27.60 %"
+    },
+    {
+        "name": "MCV",
+        "optimalRange": "80-100 fL",
+        "patientValue": "77.53 fL"
+    },
+    {
+        "name": "MCH",
+        "optimalRange": "27.0-32.0 pg",
+        "patientValue": "25 pg"
+    },
+    {
+        "name": "MCHC",
+        "optimalRange": "27.0-48.0 g/dL",
+        "patientValue": "32.25 g/dL"
+    },
+    {
+        "name": "RDW-CV",
+        "optimalRange": "11.5-14.0 %",
+        "patientValue": "16.1 %"
+    },
+    {
+        "name": "Platelet Count",
+        "optimalRange": "150-450 x1000/uL",
+        "patientValue": "201 x1000/uL"
+    },
+    {
+        "name": "TNC",
+        "optimalRange": "N/A",
+        "patientValue": "3.64"
+    },
+    {
+        "name": "MPV",
+        "optimalRange": "9.1-11.9 %",
+        "patientValue": "8.40 %"
+    },
+    {
+        "name": "PCT",
+        "optimalRange": "0.18-0.39 %",
+        "patientValue": "0.17 %"
+    },
+    {
+        "name": "PDW",
+        "optimalRange": "9.0-15.0 %",
+        "patientValue": "15.70 %"
+    },
+    {
+        "name": "Neutrophil",
+        "optimalRange": "40.0-80.0 %",
+        "patientValue": "65 %"
+    },
+    {
+        "name": "Lymphocyte",
+        "optimalRange": "20.0-40.0 %",
+        "patientValue": "20 %"
+    },
+    {
+        "name": "Monocytes",
+        "optimalRange": "2-10 %",
+        "patientValue": "13 %"
+    },
+    {
+        "name": "Eosinophils",
+        "optimalRange": "01-06 %",
+        "patientValue": "02 %"
+    },
+    {
+        "name": "Basophils",
+        "optimalRange": "0-1 %",
+        "patientValue": "00 %"
+    },
+    {
+        "name": "Absolute Neutrophils",
+        "optimalRange": "2.00-7.00 1000/μL",
+        "patientValue": "2.31 1000/μL"
+    },
+    {
+        "name": "Absolute Lymphocytes",
+        "optimalRange": "1.00-3.00 1000/μL",
+        "patientValue": "0.71 1000/μL"
+    },
+    {
+        "name": "Absolute Monocytes",
+        "optimalRange": "0.20-1.00 1000/μL",
+        "patientValue": "0.46 1000/μL"
+    },
+    {
+        "name": "Absolute Eosinophils",
+        "optimalRange": "0.02-0.50 1000/μL",
+        "patientValue": "0.07 1000/μL"
+    },
+    {
+        "name": "Neutrophil-Lymphocyte Ratio",
+        "optimalRange": "N/A",
+        "patientValue": "3.25"
+    },
+    {
+        "name": "Lymphocyte-Monocyte Ratio",
+        "optimalRange": "N/A",
+        "patientValue": "2"
+    },
+    {
+        "name": "Platelet-Lymphocyte Ratio",
+        "optimalRange": "N/A",
+        "patientValue": "10"
+    },
+    {
+        "name": "Phosphorus",
+        "optimalRange": "2.50-5.00 mg/dL",
+        "patientValue": "3.60 mg/dL"
+    },
+    {
+        "name": "Urea",
+        "optimalRange": "13.0-43.0 mg/dl",
+        "patientValue": "46.8 mg/dl"
+    },
+    {
+        "name": "Creatinine",
+        "optimalRange": "0.70-1.40 mg/dL",
+        "patientValue": "1.22 mg/dL"
+    },
+    {
+        "name": "Uric Acid",
+        "optimalRange": "4.40-7.60 mg/dl",
+        "patientValue": "5.95 mg/dl"
+    },
+    {
+        "name": "Sodium (NA+)",
+        "optimalRange": "135.0-145.0 mmol/L",
+        "patientValue": "135.30 mmol/L"
+    },
+    {
+        "name": "Potassium (K+)",
+        "optimalRange": "3.50-5.50 mmol/L",
+        "patientValue": "5.30 mmol/L"
+    },
+    {
+        "name": "Chloride",
+        "optimalRange": "98-109 mmol/L",
+        "patientValue": "101.00 mmol/L"
+    },
+    {
+        "name": "Bilirubin Total",
+        "optimalRange": "<1.1 mg/dl",
+        "patientValue": "0.57 mg/dl"
+    },
+    {
+        "name": "Bilirubin Direct",
+        "optimalRange": "0-0.3 mg/dl",
+        "patientValue": "0.23 mg/dl"
+    },
+    {
+        "name": "Bilirubin Indirect",
+        "optimalRange": "0.30-1.00 mg/dl",
+        "patientValue": "0.34 mg/dl"
+    },
+    {
+        "name": "SGOT (AST)",
+        "optimalRange": "<31.0 U/L",
+        "patientValue": "24.5 U/L"
+    },
+    {
+        "name": "SGPT (ALT)",
+        "optimalRange": "<33.0 U/L",
+        "patientValue": "61.9 U/L"
+    },
+    {
+        "name": "Alkaline Phosphatase (ALP)",
+        "optimalRange": "40-129 U/L",
+        "patientValue": "497.2 U/L"
+    },
+    {
+        "name": "Gamma Glutamyl Transferase (GGT)",
+        "optimalRange": "15-60 U/L",
+        "patientValue": "450.8 U/L"
+    },
+    {
+        "name": "Protein Total",
+        "optimalRange": "6.6-8.7 g/dL",
+        "patientValue": "6.07 g/dL"
+    },
+    {
+        "name": "Albumin (Serum)",
+        "optimalRange": "3.97-4.95 g/dL",
+        "patientValue": "3.69 g/dL"
+    },
+    {
+        "name": "Globulin",
+        "optimalRange": "2.50-3.50 g/dL",
+        "patientValue": "2.38 g/dL"
+    },
+    {
+        "name": "A/G Ratio",
+        "optimalRange": "1.5-2.5",
+        "patientValue": "1.55"
+    },
+    {
+        "name": "Spot Microalbumin",
+        "optimalRange": "0-3 mg/dL",
+        "patientValue": "8.84 mg/dL"
+    },
+    {
+        "name": "Creatinine, Random Urine",
+        "optimalRange": "28-259 mg/dL",
+        "patientValue": "79.20 mg/dL"
+    },
+    {
+        "name": "Microalbumin/creatinine Ratio",
+        "optimalRange": "< 30: Normal\n~30-300: Increased risk of Diabetic Nephropathy\n> 300 : Nephropathy",
+        "patientValue": "111.62 mg/g"
+    },
+    {
+        "name": "Volume",
+        "optimalRange": "N/A",
+        "patientValue": "20.0 ml"
+    },
+    {
+        "name": "Colour",
+        "optimalRange": "Colourless",
+        "patientValue": "PALE YELLOW"
+    },
+    {
+        "name": "Appearance",
+        "optimalRange": "Clear",
+        "patientValue": "CLEAR"
+    },
+    {
+        "name": "Ph",
+        "optimalRange": "4.6-8.0",
+        "patientValue": "5.0"
+    },
+    {
+        "name": "Specific Gravity",
+        "optimalRange": "1.005-1.030",
+        "patientValue": "1.020"
+    },
+    {
+        "name": "Urine Protein",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "NEGATIVE"
+    },
+    {
+        "name": "Urine Glucose",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "+++"
+    },
+    {
+        "name": "Ketone",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "NEGATIVE"
+    },
+    {
+        "name": "Nitrite",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "NEGATIVE"
+    },
+    {
+        "name": "Blood",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "NEGATIVE"
+    },
+    {
+        "name": "Urobilinogen",
+        "optimalRange": "NORMAL",
+        "patientValue": "NORMAL"
+    },
+    {
+        "name": "Urine Bilirubin",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "NEGATIVE"
+    },
+    {
+        "name": "Leukocyte",
+        "optimalRange": "NEGATIVE",
+        "patientValue": "NEGATIVE"
+    },
+    {
+        "name": "R.B.C.",
+        "optimalRange": "NIL /HPF",
+        "patientValue": "NIL /HPF"
+    },
+    {
+        "name": "Pus Cells",
+        "optimalRange": "0-3 /HPF",
+        "patientValue": "1-2 /HPF"
+    },
+    {
+        "name": "Epithelial Cells",
+        "optimalRange": "0-3 /HPF",
+        "patientValue": "1-2 /HPF"
+    },
+    {
+        "name": "Casts",
+        "optimalRange": "NIL",
+        "patientValue": "NIL"
+    },
+    {
+        "name": "Crystals",
+        "optimalRange": "NIL",
+        "patientValue": "NIL"
+    },
+    {
+        "name": "Bacteria",
+        "optimalRange": "NIL",
+        "patientValue": "NIL"
+    },
+    {
+        "name": "Budding yeast Cells",
+        "optimalRange": "NIL",
+        "patientValue": "NIL"
+    }
+]
